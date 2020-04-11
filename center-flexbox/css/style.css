@@ -11,7 +11,6 @@ body {
     background: url(../img/wow.png) bottom center no-repeat;
     background-size: cover;
     font-size: 1em;
-    
 }
 
 .centered {
@@ -21,10 +20,10 @@ body {
 }
 
 h1 {
-    font-size: 2em; 
-    color: #fff; 
+    font-size: 2em;
+    color: #fff;
     text-align: center;
-  }
+}
 
 @media (min-width: 768px) {
     h1 {
@@ -37,4 +36,3 @@ h1 {
         font-size: 4em;
     }
 }
-
